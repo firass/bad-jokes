@@ -16,5 +16,5 @@ Brute?"
 Thanks
 ======
 
-Punchline by Heather (https://github.com/mcturnh/)
-Story theme by Max (https://github.com/Kapura/)
+* Punchline by Heather (https://github.com/mcturnh/)
+* Story theme by Max (https://github.com/Kapura/)
